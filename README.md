@@ -3,6 +3,7 @@
 ### Group Members:         
   * Muthu Kumaran Manoharan   (UFID# 9718-4490)
   * Ashwath Venkataraman           (UFID# 5198-9461)
+  * Vejay Mitun Venkatachalam Jayagopal (UFID# 3106-5997)
 
 ### Steps to run code:
   * Create a new mix project using command “mix new vampiregen”
